@@ -2,5 +2,5 @@
 Date : 2020. 03 
 
 # Result
-<div><img src="img/에러%%페이지%%정면샷.jpg" width="500" height="600"></div> <br>
+<div><img src="img/에러 페이지 정면샷.JPG" width="900" height="500"></div> <br>
 
